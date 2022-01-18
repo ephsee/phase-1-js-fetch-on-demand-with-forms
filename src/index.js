@@ -18,5 +18,3 @@ const init = () => {
 }
 
 document.addEventListener('DOMContentLoaded', init);
-
-// STEP BY STEP VERY HELPFUL!
